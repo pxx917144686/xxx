@@ -1,0 +1,9 @@
+Package: com.netskao.wcabtestvoicerecordview
+Name: WCABTestVoiceRecordView
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 14.0)
+Description: WeChat Enables AB Tested VoiceRecordView New Button, Only 8.0.60+
+Author: Netskao
+Maintainer: Nets
+Section: Netskao-Tweaks
